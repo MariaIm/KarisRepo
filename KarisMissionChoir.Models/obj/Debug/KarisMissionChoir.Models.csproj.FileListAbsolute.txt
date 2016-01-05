@@ -1,0 +1,13 @@
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\KarisMissionChoir.Models.dll.config
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\KarisMissionChoir.Models.dll
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\KarisMissionChoir.Models.pdb
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\EntityFramework.dll
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\EntityFramework.xml
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\obj\Debug\KarisMissionChoir.Models.dll
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Models\obj\Debug\KarisMissionChoir.Models.pdb

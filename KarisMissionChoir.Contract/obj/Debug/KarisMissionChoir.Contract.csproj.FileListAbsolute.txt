@@ -1,0 +1,5 @@
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Contract\bin\Debug\KarisMissionChoir.Contract.dll
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Contract\bin\Debug\KarisMissionChoir.Contract.pdb
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Contract\obj\Debug\KarisMissionChoir.Contract.dll
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Contract\obj\Debug\KarisMissionChoir.Contract.pdb
+C:\Users\SomangIm\documents\visual studio 2013\Projects\KarisMissionChoir\KarisMissionChoir.Contract\obj\Debug\KarisMissionChoir.Contract.csprojResolveAssemblyReference.cache
